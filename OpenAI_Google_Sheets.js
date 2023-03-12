@@ -1,5 +1,5 @@
 // API KEY and variables 
-const apiKey = "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";
+const apiKey = "";
 const model = "text-davinci-003"
 const temperature = 0.2
 const maxTokens = 10
